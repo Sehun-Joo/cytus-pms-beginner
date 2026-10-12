@@ -1,0 +1,707 @@
+[
+  {
+    "name": "Black Lair",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Black Lair",
+        "artist": "Sakuzyo (削除)",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "22aa716b6871b57ff8a57c5754b6ceab",
+      "79c149b7fba33c0c44844fa61ee73323"
+    ],
+    "count": 2,
+    "levels": [
+      "33",
+      "43"
+    ]
+  },
+  {
+    "name": "conflict",
+    "aliases": [
+      "conflict [HYPER - obj.0samil0]",
+      "conflict [HYPER - obj.あ]"
+    ],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "conflict",
+        "artist": "siromaru+cranky",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "conflict",
+        "artist": "siromaru + cranky",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "d3f01e9780dcad2cfc4265f5741e9308",
+      "6cd6fcc42b1b5ca5000f30e882733db6",
+      "a30790195eaf053317a601e60229b019",
+      "46986ab93ea9b0c74023e49f49c36e8d",
+      "c868cf1119d763f2f1f6209c1e220feb"
+    ],
+    "count": 5,
+    "levels": [
+      "13",
+      "25",
+      "27",
+      "39"
+    ]
+  },
+  {
+    "name": "Fading Star",
+    "aliases": [],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Fading Star",
+        "artist": "ginkiha",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "9bb279bca191a3257cc8752643694d2a",
+      "62cf745c9d66c3bebaccc14a64a4becd",
+      "b2bb8947de47cb4e5108ef315dc90b40"
+    ],
+    "count": 3,
+    "levels": [
+      "12",
+      "28",
+      "37"
+    ]
+  },
+  {
+    "name": "Halcyon",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Halcyon",
+        "artist": "xi",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "Halcyon",
+        "artist": "xi",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "9cce9c3c4fd16cb580ead60a5534d8f0"
+    ],
+    "count": 1,
+    "levels": [
+      "30"
+    ]
+  },
+  {
+    "name": "L",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "L",
+        "artist": "Ice",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "ca400ebd0efecfc1391bd79870179f8c"
+    ],
+    "count": 1,
+    "levels": [
+      "32"
+    ]
+  },
+  {
+    "name": "Oriens",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Oriens",
+        "artist": "ginkiha",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "Oriens",
+        "artist": "ginkiha",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "a8112e323b67994ef4c2df354e4d9277"
+    ],
+    "count": 1,
+    "levels": [
+      "34"
+    ]
+  },
+  {
+    "name": "Parousia",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Parousia",
+        "artist": "xi",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "Parousia",
+        "artist": "xi",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "807e7a8140711277d2cf6580a58a7538",
+      "4237f0fff18962dbab352bfc77f12d03"
+    ],
+    "count": 2,
+    "levels": [
+      "23",
+      "44"
+    ]
+  },
+  {
+    "name": "Acquire",
+    "aliases": [],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Acquire",
+        "artist": "ryhki",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "67ea7361add8e4e73877017e64534e0d"
+    ],
+    "count": 1,
+    "levels": [
+      "45"
+    ]
+  },
+  {
+    "name": "R.I.P",
+    "aliases": [
+      "R.I.P."
+    ],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "R.I.P",
+        "artist": "eicateve",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "86f7b9ea56ae2a81b291b69935f33cd7"
+    ],
+    "count": 1,
+    "levels": [
+      "44"
+    ]
+  },
+  {
+    "name": "Laplace",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Laplace",
+        "artist": "Sakuzyo (削除)",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [
+      "29691a1f3b6329b8efe0fddd28c61067",
+      "f116d663d2da4dca34ab49f0a18e80fe"
+    ],
+    "count": 2,
+    "levels": [
+      "31",
+      "44"
+    ]
+  },
+  {
+    "name": "B.B.K.K.B.K.K. (2023 Remake)",
+    "aliases": [
+      "B.B.K.K.B.K.K",
+      "B.B.K.K.B.K.K."
+    ],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "Original 2013 BMS version; Cytus II contains the 2023 remake. Audio/version differs.",
+    "evidence": [
+      {
+        "title": "B.B.K.K.B.K.K. (2023 Remake)",
+        "artist": "nora2r",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [
+      "https://wikiwiki.jp/cytus-2/B.B.K.K.B.K.K.%20%282023%20Remake%29"
+    ],
+    "chart_md5": [
+      "fd6a512162c97d4fc0db65f23fa7aa5b",
+      "7b56dcea7a2a5355baad10e6c303f5ef",
+      "96f48023f943857527cebbfbff5fbbc8",
+      "b648d56135d512d04e0b0bb45c894ed3"
+    ],
+    "count": 4,
+    "levels": [
+      "15",
+      "25",
+      "37",
+      "45+"
+    ]
+  },
+  {
+    "name": "バステット (Cytus II Edit)",
+    "aliases": [
+      "バステット"
+    ],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "Original BOFXVI BMS version; Cytus II uses its named Cytus II Edit.",
+    "evidence": [
+      {
+        "title": "バステット (Cytus II Edit)",
+        "artist": "Jehezukiel",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [
+      "https://wikiwiki.jp/cytus-2/バステット%20%28Cytus%20II%20Edit%29"
+    ],
+    "chart_md5": [
+      "a44af90c69d44ce11598e2673c0c6e35"
+    ],
+    "count": 1,
+    "levels": [
+      "43"
+    ]
+  },
+  {
+    "name": "FREEDOM DiVE",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "Only insane-table PMS charts found in the checked library; no normal-table match.",
+    "evidence": [
+      {
+        "title": "FREEDOM DiVE",
+        "artist": "xi",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "FREEDOM DiVE",
+        "artist": "xi",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "AXION",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "Only insane-table PMS charts found in the checked library; no normal-table match.",
+    "evidence": [
+      {
+        "title": "AXION",
+        "artist": "Sakuzyo (削除)",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "AXION",
+        "artist": "sakuzyo",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Ascension to Heaven",
+    "aliases": [],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "Only insane-table PMS charts found in the checked library; no normal-table match.",
+    "evidence": [
+      {
+        "title": "Ascension to Heaven",
+        "artist": "xi",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Aragami",
+    "aliases": [],
+    "games": [
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "Only insane-table PMS charts found in the checked library; no normal-table match.",
+    "evidence": [
+      {
+        "title": "Aragami",
+        "artist": "xi",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Libera me",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Libera me",
+        "artist": "Cranky",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "Libera Me",
+        "artist": "Cranky",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "D R G",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "D R G",
+        "artist": "ani",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "D R G",
+        "artist": "onoken",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "BIOTONIC",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "BIOTONIC",
+        "artist": "ani",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "Biotonic",
+        "artist": "onoken",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Ververg",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Ververg",
+        "artist": "ani feat.B",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Hard Landing",
+    "aliases": [],
+    "games": [
+      "cytus",
+      "cytus2"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Hard Landing",
+        "artist": "Yamajet",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      },
+      {
+        "title": "Hard Landing",
+        "artist": "Yamajet",
+        "game": "cytus2",
+        "source": "https://wikiwiki.jp/cytus-2/楽曲一覧"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "otome",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "otome",
+        "artist": "suzumetune",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Recollections",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Recollections",
+        "artist": "Yamajet",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "Zauberkugel",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "Zauberkugel",
+        "artist": "xi",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  },
+  {
+    "name": "VitMaster",
+    "aliases": [],
+    "games": [
+      "cytus"
+    ],
+    "touhou": false,
+    "basis": "Title and artist reviewed against Japanese Cytus song lists.",
+    "note": "",
+    "evidence": [
+      {
+        "title": "VitMaster",
+        "artist": "Sakuzyo (削除)",
+        "game": "cytus",
+        "source": "https://wikiwiki.jp/cytus/曲名リスト"
+      }
+    ],
+    "references": [],
+    "chart_md5": [],
+    "count": 0,
+    "levels": []
+  }
+]
